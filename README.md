@@ -3,7 +3,9 @@
 Um aplicativo desktop em Python para controle financeiro pessoal permitindo registrar transações de receitas e despesas, acompanhar saldos e exportar os dados para Excel.
 
 Para usar a versão Desktop baixe o app  → 
- **[Controle_de_Gastos_executavel.exe](https://github.com/Viniks07/Controle-de-Gastos-App/raw/refs/heads/main/Controle_de_Gastos_executavel.exe)**
+ **[Controle_de_Gastos_executavel.exe](https://github.com/Viniks07/Controle-de-Gastos-App/raw/refs/heads/main/Controle_de_Gastos_executavel.exe)**  
+ ***(O app foi produzido gratuitamente portato não será reconhecido pelo Microsoft Defender.)  
+(Clique →  Mais informações → Executar assim mesmo)***
 
 Ou acesse a versão web  →
 **https://controle-de-gastos-web.onrender.com**  
