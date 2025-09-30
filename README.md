@@ -1,6 +1,18 @@
-## Controle Financeiro
+# Controle Financeiro
 
 Um aplicativo desktop em Python para controle financeiro pessoal permitindo registrar transações de receitas e despesas, acompanhar saldos e exportar os dados para Excel.
+
+Para usar a versão Desktop baixe o app  → 
+ **[Controle_de_Gastos_executavel.exe](https://github.com/Viniks07/Controle-de-Gastos-App/raw/refs/heads/main/Controle_de_Gastos_executavel.exe)**
+
+Ou acesse a versão web  →
+**https://controle-de-gastos-web.onrender.com**  
+***(A verão web por ser hospedada gratuitamente pode demorar até 2 minutos pra inicializar)***
+
+Caso queira ler o codigo da verão web acesse :  
+**[Controle de Gastos Web](https://github.com/Viniks07/Controle-de-Gastos_web)**
+
+## Funcionalidades
 
 Funcionalidades Principais:
 
